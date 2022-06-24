@@ -72,6 +72,7 @@ class Stopwatch extends React.Component {
       second: 0,
       minute: 0,
       hour: 0,
+      history: [],
     });
   };
 
